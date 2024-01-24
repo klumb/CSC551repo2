@@ -6,3 +6,5 @@ This repo holds class code and test data
 * hello 
 
 ...this is a change...
+
+This change was made by someone else
